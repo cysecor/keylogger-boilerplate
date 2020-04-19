@@ -1,6 +1,6 @@
 # keylogger-boilerplate
 
-private String verifyKey(int code)
+        private String verifyKey(int code)
         {
             String key = "";
 
